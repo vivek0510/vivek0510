@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am product manager looking to get to speed on tech and AI to build something useful.
+I am product manager looking to get up to speed on tech and AI to build something useful.
 <!--
 **vivek0510/vivek0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
